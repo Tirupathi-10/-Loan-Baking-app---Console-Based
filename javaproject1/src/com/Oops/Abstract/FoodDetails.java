@@ -37,7 +37,7 @@ class BurgerOrder extends OrderDetails {
 
 }
 
-public class AbstractFood {
+public class FoodDetails {
 
 	public static void main(String[] args) {
 		PizzaOrder po = new PizzaOrder(1, "Tiru", 299.0);
